@@ -1,6 +1,6 @@
 # AMYRANG-BOT
 <p align="center">
-  <img src="assets/téléchargement.png" width="200" alt="AMYRANG Logo">
+  <img src="téléchargement.png" width="200" alt="AMYRANG Logo">
 </p>
 
 # 🤖 AMYRANG Bot
